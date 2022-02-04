@@ -1,15 +1,11 @@
-﻿int numberA = new Random().Next(1, 10);
-int numberB = new Random().Next(1, 10);
-int numberC = new Random().Next(1, 10);
+﻿int numberA = new Random().Next(int.MinValue, int.MaxValue);
+int numberB = new Random().Next(int.MinValue, int.MaxValue);
+int numberC = new Random().Next(int.MinValue, int.MaxValue);
 Console.WriteLine(numberA);
 Console.WriteLine(numberB);
 Console.WriteLine(numberC);
+int max = numberA;
+if (numberB> max) max = numberB;
+if (numberC> max) max = numberC;
 
-int Max(int numberA, int numberB, int numberC)
-{
-    int result = numberA;
-    if (numberB > result) result = numberB;
-    if (numberC > result) result = numberC;
-    return result;
-}
-Console.WriteLine( 'Max');
+Console.WriteLine("Max=" + max);
