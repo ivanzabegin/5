@@ -1,13 +1,13 @@
 ﻿Console.Write("Введите номер дня недели ");
 string weekday = Console.ReadLine();
-double monday = 1;
-int tuesday = 2;
+string monday = 1;
+tuesday = 2;
 int wednesday = 3;
 int thursday = 4;
 int friday = 5;
 int saturday = 6;
 int sunday = 7;
-if string(weekday = 1);
+if (weekday = 1);
 {
     Console.Write = ("monday");
 }
