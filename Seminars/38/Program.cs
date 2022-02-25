@@ -1,7 +1,7 @@
 ﻿// Найти сумму чисел одномерного массива, стоящих на нечётной позиции.
 
 Console.Clear();
-int [] array = new int[7];
+int [] array = new int[0b111];
 
 static void FillArray(int [] massiv)
 {
