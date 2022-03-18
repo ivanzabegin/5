@@ -1,0 +1,15 @@
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\57.exe
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\57.deps.json
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\57.runtimeconfig.json
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\57.dll
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\ref\57.dll
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\bin\Debug\net6.0\57.pdb
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.csproj.AssemblyReference.cache
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.AssemblyInfoInputs.cache
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.AssemblyInfo.cs
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.csproj.CoreCompileInputs.cache
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.dll
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\ref\57.dll
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.pdb
+C:\Users\iza.OPRA\OneDrive - Opra Turbines\Desktop\Geek Brains\C#\Seminars\57\obj\Debug\net6.0\57.genruntimeconfig.cache
